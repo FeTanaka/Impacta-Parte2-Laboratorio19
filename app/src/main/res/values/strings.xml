@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parte2-Laboratorio19</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo">Lista de Contatos</string>
+    <string name="gerar">Gerar</string>
+    <string name="api">Consultar API</string>
+</resources>
