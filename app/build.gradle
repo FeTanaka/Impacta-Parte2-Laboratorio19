@@ -9,6 +9,9 @@ android {
     viewBinding {
         enabled = true
     }
+    dataBinding {
+        enabled = true
+    }
 
     defaultConfig {
         applicationId "br.com.impacta.parte2_laboratorio19"
